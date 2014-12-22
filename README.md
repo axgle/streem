@@ -1,5 +1,7 @@
 # Streem - stream based concurrent scripting language
 
+`Syntax OK` fork version 
+
 [![Build Status](https://travis-ci.org/matz/streem.svg?branch=master)](https://travis-ci.org/matz/streem)
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/matz/streem?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
